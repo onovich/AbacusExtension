@@ -1,0 +1,19 @@
+{
+    "name": "com.mortise.abacus.extension",
+    "version": "0.0.0",
+    "unity": "2019.4",
+    "author": {
+        "name": "onovich",
+        "email": "onovich1110@gmail.com"
+    },
+    "displayName": "MortiseFrame.AbacusExtension",
+    "description": "An Extension Library For The Math Library Abacus.",
+    "documentationURL": "https://github.com/onovich/AbacusExtension",
+    "hideInEditor": false,
+    "category": "Math",
+    "keywords": [
+        "MortiseFrame",
+        "math"
+    ],
+    "unityRelease": "16f1"
+}
